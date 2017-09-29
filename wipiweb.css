@@ -1,0 +1,38 @@
+body {
+  font: 100.01% Verdana, Arial, Helvetica, sans-serif;
+}
+
+* {
+  margin:0;
+  padding:0;
+}
+
+#seite {
+  width:100%;
+  margin: 0 auto;
+}
+
+#kopfbereich {
+  background-color:lightblue;
+  min-height:50px;
+}
+
+#inhalt {
+  margin-left: 250px;
+  border-left:2px;
+  border-left-style:dotted;
+  min-height:50%;
+}
+
+#steuerung {
+  float: left;
+  width:250px;
+}
+
+#fussbereich {
+  clear: both;
+}
+
+.fusstext{
+float:right;
+}

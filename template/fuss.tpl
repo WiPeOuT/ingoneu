@@ -1,0 +1,1 @@
+<div class="fusstext">&copy; by www.wipiweb.de</div>
